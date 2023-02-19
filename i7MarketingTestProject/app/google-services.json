@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113335212342",
+    "project_id": "i7-marketing-test-project",
+    "storage_bucket": "i7-marketing-test-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113335212342:android:8d02d50b8ebdbeb2ba3b97",
+        "android_client_info": {
+          "package_name": "com.macvindev.i7marketingtestproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113335212342-3db4hseguk3g7qoi7oohce3m1b64857c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9e77ez89et8AyZNks-qzGItMy55YMzLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113335212342-3db4hseguk3g7qoi7oohce3m1b64857c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

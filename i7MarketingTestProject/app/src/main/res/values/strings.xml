@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">i7 Marketing</string>
+    <string name="buttonOne">Button 1</string>
+    <string name="buttonTwo">Button 2</string>
+    <string name="buttonThree">Button 3</string>
+    <string name="buttonFour">Button 4</string>
+    <string name="goToList">Go to List</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="button_pressed">Button Pressed</string>
+</resources>
